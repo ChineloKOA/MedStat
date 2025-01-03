@@ -1,0 +1,41 @@
+DATA_PATH:
+  LOCAL: local path
+  REMOTE: path to s3bucket
+  DB: path to redshift
+
+MH_PLOT_PARAMS:
+  cols: 2
+  fig_width: 14
+  fig_height: 10
+  font_weight: 'bold'
+  vert_align: 'bottom'
+
+SV_PLOT_PARAMS:
+  fig_width: 7
+  fig_height: 5
+  font_weight: 'bold'
+  vert_align: 'bottom'
+  center_align: 'center'
+
+MV_PLOT_PARAMS:
+  cols: 2
+  fig_width: 10
+  fig_height: 4
+  font_weight: 'bold'
+  vert_align: 'bottom'
+  center_align: 'center'
+
+PIE_PLOT_PARAMS:
+  cols: 2
+  fig_width: 14
+  fig_height: 8
+  font_weight: "bold"
+  vert_align: 'bottom'
+  colors: ['#6395ee', '#7e57c2', '#d1c4e9', '#ede7f6', '#FF00FF', '#DDA0DD', '#4B3D8B']
+  y: 0
+  start_angle: 0
+  labels: None
+  pct_distance: 1.2
+  loc: 'center left'
+  bbox_to_anchor_width: 1
+  bbox_to_anchor_height: 0.2
