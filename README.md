@@ -1,8 +1,9 @@
 
 # STATISTICAL REPORT ON NIGERIAN'S PHYSICIANS MIGRATION
-This statistical report provides an insight on the background on the Nigeria medical doctors that are not satisfy with
-the current situation of the country and hence migrating to other countries. This looks at the professional cadre,
-gender, religion, marital status etc.
+This statistical report offers an analysis of the background of Nigerian medical doctors who are dissatisfied with the
+current situation in the country and are consequently migrating abroad. The report examines various factors, including
+professional cadre, gender, religion, marital status, and other relevant demographics, to provide a comprehensive
+understanding of the motivations behind this migration trend.
 
 ## 📁 Project Structure
 ```
